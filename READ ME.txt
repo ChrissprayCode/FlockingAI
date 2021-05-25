@@ -1,5 +1,0 @@
-Game folder - Contains a playable version of the game
-AI Report - Is the report for the game
-Everything else - required files for the build  (Apart from gitignore files)
-
-GitLink - Accidental Add, it's just a notepad that links to this 
